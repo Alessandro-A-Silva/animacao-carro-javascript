@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    background-color: aliceblue;
+}
+
+#carro {
+    width: 200px;
+    position: relative;
+}
+
+#pista {
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+
